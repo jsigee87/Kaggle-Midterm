@@ -18,6 +18,9 @@ share
 *.swp
 .requirements.swp
 
+# Ignore csv
+*.csv
+
 # Ignore automatically generated documents for 
 # notebook to pdf conversion
 output?????.png
